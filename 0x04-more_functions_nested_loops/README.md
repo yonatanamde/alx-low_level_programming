@@ -1,3 +1,1 @@
-0. isupper
-1. isdigit
-2. Collaboration is multiplication
+0x04-more_functions_nested_loops
