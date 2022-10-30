@@ -1,10 +1,14 @@
 #include <stdio.h>
+
 /**
- * main - prints a long string file
- * Description: this program is a simple outputing a value
- * Return: return zero
+ * main - The purpose of this file is to output
+ * the string: with proper grammar, but the outcome is a piece of art,
+ * followed by a newline, using printf and not puts.
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-        printf("with proper grammar, but the outcome is a piece of art,\n");		return (0);
-}            
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+
+	return (0);
+}
